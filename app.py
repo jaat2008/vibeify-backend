@@ -15,6 +15,7 @@ def get_audio():
       "noplaylist": True,
       "quiet": True,
       "default_search": "ytsearch1",
+      "cookiefile": "cookies.txt",  # <--- Bas yeh nayi line yahan add karni hai!
   }
 
   try:
